@@ -9,4 +9,4 @@
 
 **Link to work:** [Serverless Architecture Boilerplate - NodeJS](https://github.com/msfidelis/serverless-architecture-boilerplate)
 
-**Link to work:** [Serverless Architecture Boilerplate - Go]https://github.com/msfidelis/serverless-architecture-boilerplate-go)
+**Link to work:** [Serverless Architecture Boilerplate - Go](https://github.com/msfidelis/serverless-architecture-boilerplate-go)
