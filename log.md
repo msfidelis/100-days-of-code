@@ -8,4 +8,5 @@
 **Thoughts:** Code using best pratices in go is very difficult in the beginning. It's hard to use local modules with go dep or go mod. I spend a lot of time to learn thw best way to do this. 
 
 **Link to work:** [Serverless Architecture Boilerplate - NodeJS](https://github.com/msfidelis/serverless-architecture-boilerplate)
+
 **Link to work:** [Serverless Architecture Boilerplate - Go]https://github.com/msfidelis/serverless-architecture-boilerplate-go)
