@@ -1,4 +1,4 @@
-# Goals - To learning Golang
+# Goals - To learn Golang
 
 * Write my own Elasticsearch Migration / Restore tool
 * Write my own DynamoDB Migration tool 
