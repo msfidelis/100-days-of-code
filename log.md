@@ -1,3 +1,10 @@
+# Goals - To learning Golang
+
+* Write my own Elasticsearch Migration / Restore tool
+* Write my own DynamoDB Migration tool 
+* Rewrite my Serverless Boilerplate in Go
+* Write my own AWS security scan tool
+
 # 100 Days Of Code - Log
 
 ### Day 0: January 06, 2020 
