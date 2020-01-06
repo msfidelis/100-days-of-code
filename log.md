@@ -8,7 +8,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 06, 2020 
-##### (delete me or comment me out)
+##### Starting to organize Go projects and write cruds on DynamoDB
 
 **Today's Progress**: I started to rewrite my one of my favorite projects in Golang, my serverless boilerplate example to scale teams to use Lambda and Golang. 
 
